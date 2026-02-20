@@ -1,0 +1,11 @@
+streamlit
+streamlit-cropper
+torch
+torchvision
+pandas
+numpy
+matplotlib
+Pillow
+requests
+tqdm
+grad-cam

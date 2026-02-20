@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts and datasets
+checkpoints/
+stanford_cars/
+car/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Logs and local outputs
+*.log
+outputs/
+runs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
